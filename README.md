@@ -19,7 +19,10 @@ The EVOX (Evolutionary Fuzzy-X) Neuro-Fuzzy Visualization Engine is a sophistica
 ```text
 
 Clarification specification starting Core Pipeline:
-Text Prompt Input → Tokenization → Fuzzy Membership → Mandani Inference → Entropy Optimization → Autonomous Weight Vector Calculation →  Autonomous Decision Making Neuron Calculation → OpenGL CAD Rendering → BGRA Visualization& Spatial Audio Output.
+
+Text Prompt Input → Tokenization → Fuzzy Membership → Mandani Inference → Entropy Optimization →
+Autonomous Weight Vector Calculation →  Autonomous Decision Making Neuron Calculation →
+OpenGL CAD Rendering → BGRA Visualization& Spatial Audio Output.
 
 ```
 
