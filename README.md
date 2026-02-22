@@ -1,4 +1,11 @@
 # EVOX NEURO-FUZZY VISUALIZATION ENGINE
+
+---
+
+https://github.com/user-attachments/assets/dac57c5a-62ab-493c-9670-c0eaa3ab9436
+
+---
+
 ## Algorithm Description and Technical Documentation
 
 ### Overview
