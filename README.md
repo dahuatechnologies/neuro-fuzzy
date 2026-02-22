@@ -1,5 +1,5 @@
 /* ============================================================================
- * EVOX NEURO-FUZZY VISUALIZATION ENGINE - ULTIMATE WORKING VERSION
+ * 3D EVOX NEURO-FUZZY VISUALIZATION ENGINE - ULTIMATE WORKING VERSION
  * Author: David Sousa Oliver
  * Company: Dahua Technologies
  * File: evox/src/main.c
